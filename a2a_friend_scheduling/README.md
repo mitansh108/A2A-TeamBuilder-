@@ -3,9 +3,9 @@ This document describes a multi-agent application demonstrating how to orchestra
 
 This application contains four agents:
 *   **Host Agent**: The primary agent that orchestrates the scheduling task.
-*   **Kaitlynn Agent**: An agent representing Kaitlynn's calendar and preferences.
-*   **Nate Agent**: An agent representing Nate's calendar and preferences.
-*   **Karley Agent**: An agent representing Karley's calendar and preferences.
+*   **Kaitlynn Agent**: An agent representing Kaitlynn's Skills and preferences.
+*   **Nate Agent**: An agent representing Nate's Skills and preferences.
+*   **Karley Agent**: An agent representing Karley's Skills and preferences.
 
 ## Setup and Deployment
 
